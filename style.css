@@ -64,6 +64,9 @@ h1 {
 	background:    -moz-linear-gradient(to right bottom, hsl(7, 69%, 48%), hsl(15, 81%, 37%));
 	background:         linear-gradient(to right bottom, hsl(7, 69%, 48%), hsl(15, 81%, 37%));
 }
+.repo-card:nth-child(3) .repo-card-link {
+	background:         linear-gradient(to right bottom, hsl(84, 69%, 48%), hsl(84, 81%, 37%));
+}
 .repo-card-link:hover {
 
 }
